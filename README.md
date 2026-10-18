@@ -1,6 +1,6 @@
 # inertia
 
-![Inertia](Images/Assembly-render.png)
+![Inertia](Images/Assembly-rendered.png)
 This is the Repo for my first Rocket design and possibly also for future EX rocketry projects. This particular model is only a design prototype not a finished design.
 
 # What is this
@@ -34,25 +34,25 @@ A expoded view, as well as a assembly and corresponding drawing are pending righ
 Nosecone:
 The nosecone is Elipsoid shaped wich is deemed by several experts and "veterans" of the scene, as the optimal shape. Although in sub mach 0.5 speeds, these considerations are not that important, I still added them for testing.
 ![Inertia](Images/nosecone-wire.png)
-
+wireframe
 
 ![Inertia](Images/center-render.png)
 Center part: 
 The center part has space to hold a payload or a recovery system, but also has enough space still to hold all avionics. In future there will be specific center part variations to serve each payload purpose needed.
 ![Inertia](Images/center-wire.png)
-
+wireframe
 
 ![Inertia](Images/aft-render.png)
 Aft and motor section: 
 The Aft and motor section has several interesting features. There are 3 motor slots to fit in 3 category G motors. The module also has 4 trapezoidal fins for stability and the ensuerement of a 0 Angle of attack and maximum stability.
 ![Inertia](Images/aft-wire.png)
-
+wireframe
 
 ![Inertia](Images/coupler-render.png)
 Coupler:
 To ensure that no bending loads during ascend can damage the rocket a coupler is used to connect the two bigger and therefore heavier parts together.
 ![Inertia](Images/coupler-wire.png)
-
+wireframe
 
 Boattail: 
 A fun extension for the rocket connected to the motor section and aiming to reduce the drag of the rocket. This unfortunately results in less stability.

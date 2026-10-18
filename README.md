@@ -1,5 +1,6 @@
 # inertia
 
+![Inertia](Images/Lunarbie_PCB_bare.PNG)
 This is the Repo for my first Rocket design and possibly also for future EX rocketry projects. This particular model is only a design prototype not a finished design.
 
 # What is this

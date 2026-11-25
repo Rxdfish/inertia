@@ -1,12 +1,12 @@
 ![Static Badge](https://img.shields.io/badge/Hackatime-4.16h-purple?style=flat)
 
 
-# inertia
+## inertia
 
 ![Inertia](Images/Assemby-rendered.png)
 This is the Repo for my first Rocket design and possibly also for future EX rocketry projects. This particular model is only a design prototype not a finished design.
 
-# What is this
+## What is this
 
 ![Inertia](Images/Assembly-wire.png)
 Inertia is my first attempt of creating a rocket design. I played around in Fusion360 essentially and designed this rocket with a handful of cool features I wanted to "challange" myself with.
@@ -15,23 +15,23 @@ The rocket features 4 parts and can be assembled with a total of 20 m5 screws of
 
 Some things that are being tested with this design is the suitability of 3D printed parts for this particular low thrust rocket. 
 
-# Project status
+## Project status
 
 The project is in a publishable and testable state. There will probably come some more features or so called modules for the rocket.
 
-# Motivation
+## Motivation
 
 This project was made for the half life by Hackclub project, and shipped there as main purpose. The other motivation for the project was, that i wanted to start building rockets after I informed myself now for quite some time. This seemed to be the perfect opportunity to finally start working on the project.
 
-# Project journaling
+## Project journaling
 
 Via the [Half life](https://halflife.hackclub.com) by Hackclub programm, several Journal entries have been made either in timelaps form or as written entry to track the project.
 
-# Assembly
+## Assembly
 
 A expoded view, as well as a assembly and corresponding drawing are pending right now. The Rocket itself is build with 4 parts and 20 m5 screws. The parts are 3D printed with optionally PLA or PETG filament.
 
-# Components
+## Components
 
 ![Inertia](Images/nosecone-render.png)
 Nosecone:
@@ -65,7 +65,7 @@ wireframe
 Boattail: 
 A fun extension for the rocket connected to the motor section and aiming to reduce the drag of the rocket. This unfortunately results in less stability.
 
-BOM
+## BOM
 
 here is a short list of the few things you need.
 

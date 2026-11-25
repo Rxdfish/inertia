@@ -77,6 +77,12 @@ A expoded view, as well as a assembly and corresponding drawing are pending righ
 > # Boattail: 
 > A fun extension for the rocket connected to the motor section and aiming to reduce the drag of the rocket. This unfortunately results in less stability.
 
+## Build with 
+
+- Autodesk Fusion360
+- Prusa MK4 printer
+
+
 ## BOM
 
 here is a short list of the few things you need.

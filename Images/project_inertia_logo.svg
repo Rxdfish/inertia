@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1100" width="1000" height="1100">
+  <defs>
+    <linearGradient id="outerBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+    <linearGradient id="innerBg" x1="50%" y1="30%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="trailBlue" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E40AF"/>
+      <stop offset="40%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#93C5FD"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer rounded triangle -->
+  <path d="M500,30 
+           C530,30 555,45 570,65
+           L930,780
+           C955,830 940,880 880,900
+           L120,900
+           C60,880 45,830 70,780
+           L430,65
+           C445,45 470,30 500,30 Z"
+        fill="url(#outerBorder)"/>
+
+  <!-- Inner content area (rounded triangle) -->
+  <path d="M500,55 
+           C525,55 545,68 558,85
+           L890,760
+           C910,800 900,840 850,855
+           L150,855
+           C100,840 90,800 110,760
+           L442,85
+           C455,68 475,55 500,55 Z"
+        fill="url(#innerBg)"/>
+
+  <!-- Swirling trails -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Main white trail -->
+    <path d="M380,720 C320,580 420,420 510,380 C580,350 650,420 620,520 C590,620 450,700 420,780"
+          stroke="#FFFFFF" stroke-width="14" opacity="0.95"/>
+    <path d="M360,740 C290,560 400,380 500,340 C590,310 680,400 640,530 C600,650 420,720 390,800"
+          stroke="#FFFFFF" stroke-width="8" opacity="0.6"/>
+    
+    <!-- Blue trails -->
+    <path d="M400,700 C350,540 460,400 530,370 C600,340 670,430 630,540 C590,640 470,690 440,760"
+          stroke="url(#trailBlue)" stroke-width="12" opacity="0.85"/>
+    <path d="M340,730 C270,550 380,370 480,330 C580,300 690,390 650,520 C610,640 400,710 370,790"
+          stroke="#60A5FA" stroke-width="10" opacity="0.7"/>
+    <path d="M420,680 C380,520 490,410 550,390 C610,370 660,450 630,540 C600,630 490,670 460,740"
+          stroke="#BFDBFE" stroke-width="6" opacity="0.9"/>
+    
+    <!-- Concentric arcs -->
+    <path d="M320,650 C300,500 400,350 520,320 C640,290 750,400 700,550 C650,700 450,720 350,780"
+          stroke="#3B82F6" stroke-width="4" opacity="0.4"/>
+    <path d="M300,670 C270,480 390,320 530,290 C670,260 780,390 720,560 C660,730 420,740 330,800"
+          stroke="#1D4ED8" stroke-width="3" opacity="0.35"/>
+  </g>
+
+  <!-- Rocket -->
+  <g transform="translate(520,450) rotate(-12)">
+    <!-- Nose cone -->
+    <polygon points="0,-90 22,-25 -22,-25" fill="#FFFFFF"/>
+    <!-- Body -->
+    <path d="M-20,-25 L-16,45 L16,45 L20,-25 Z" fill="#F1F5F9"/>
+    <!-- Window / detail -->
+    <ellipse cx="0" cy="-5" rx="8" ry="12" fill="#1E40AF" opacity="0.4"/>
+    <!-- Fins -->
+    <polygon points="-18,25 -42,65 -14,50" fill="#FFFFFF"/>
+    <polygon points="18,25 42,65 14,50" fill="#FFFFFF"/>
+    <!-- Engine glow -->
+    <ellipse cx="0" cy="60" rx="12" ry="22" fill="#60A5FA" opacity="0.7"/>
+  </g>
+
+  <!-- Stars -->
+  <g fill="#FFFFFF">
+    <polygon points="430,200 435,212 448,212 438,220 441,232 430,225 419,232 422,220 412,212 425,212"/>
+    <polygon points="590,170 594,180 605,180 596,186 599,196 590,190 581,196 584,186 575,180 586,180"/>
+    <polygon points="660,270 663,278 672,278 665,283 667,291 660,286 653,291 655,283 648,278 657,278"/>
+    <polygon points="360,310 363,317 371,317 365,321 367,328 360,324 353,328 355,321 349,317 357,317"/>
+    <polygon points="710,390 712,396 719,396 714,400 715,406 710,402 705,406 706,400 701,396 708,396"/>
+    <polygon points="490,145 493,153 502,153 495,158 497,166 490,161 483,166 485,158 478,153 487,153"/>
+    <circle cx="540" cy="250" r="2.5"/>
+    <circle cx="620" cy="330" r="2"/>
+    <circle cx="400" cy="270" r="2"/>
+    <circle cx="680" cy="210" r="1.8"/>
+    <circle cx="510" cy="190" r="1.5"/>
+    <circle cx="650" cy="350" r="1.5"/>
+  </g>
+
+  <!-- Bottom text band (rounded) -->
+  <path d="M150,800 
+           C120,800 100,820 100,850
+           L100,980
+           C100,1010 120,1030 150,1030
+           L850,1030
+           C880,1030 900,1010 900,980
+           L900,850
+           C900,820 880,800 850,800 Z"
+        fill="#0F172A" stroke="#FFFFFF" stroke-width="8"/>
+
+  <!-- Text -->
+  <text x="500" y="935" 
+        font-family="Arial Black, Arial, Helvetica, sans-serif" 
+        font-size="58" 
+        font-weight="900" 
+        fill="#FFFFFF" 
+        text-anchor="middle" 
+        letter-spacing="6">PROJECT INERTIA</text>
+</svg>

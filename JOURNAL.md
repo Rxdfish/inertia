@@ -35,77 +35,90 @@ October 15th. The idea is formed and a first rough design of all components is d
 
 INTRO
 
-In the last days I thought about what my next project could be. I had several ideas, build the tutorial project of HL, create a housing for the last project, etc.
+
+In the last days I thought about what my next project could be. I had several ideas, build the tutorial project of HL, create a housing for the last project, etc. 
 
 I didnt do any of those. Instead im now designing a rocket.
 
-Why the heck would I do taht ? I wanted to build a rocket for quite some time now and was informing myself about this topic a lot in the last months. This weeks CAD design challenge was therefore a perfect opportunity to finally start working.
+Why the heck would I do taht ? I wanted to build a rocket for quite some time now and was informing myself about this topic a lot in the last months. This weeks CAD design challenge was therefore a perfect opportunity to finally start working. 
 
 TABLE OF CONTENT
 
+
 - creating repo (as usual XD)
-- setting up the Half life project
-- forming a rough idea and concept together with a clear scope of the project and its goals
-- -> dimentions
-- -> design choices
+- setting up the Half life project 
+- forming a rough idea and concept together with a clear scope of the project and its goals 
+- -> dimentions 
+- -> design choices 
 - -> future plans
-- creating the basic CAD models
+- creating the basic CAD models 
 - -> aft section
 - -> center section
 - -> nosecone
 - -> coupling joint
 
-REPO
+REPO 
+
 
 https://github.com/Rxdfish/inertia
-here is the repo for the project. Nothing there yet, but if anyone likes they can get the step files for the rocket (the most recent ones and in future all iterations) there.
+here is the repo for the project. Nothing there yet, but if anyone likes they can get the step files for the rocket (the most recent ones and in future all iterations) there. 
 
 -> The current step files will be there in a minute.
 
 THE CONCEPT :O
 
+
 I took inspiration primarily from the https://www.nakka-rocketry.net website. Its a hobby amateur rocketry website where a lot of resources about the topic can be found.
 ![Screenshot 2026-10-15 233706](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/91141e567558ac5ccb013ada3325ed1721fc46033cc30ec1ebd3f45674c167d4.png)
 
-Even though this topic and the corresponding design can be highly technical, I dont have skill or the time to implement any physics or aerodynamic based design choices unfortunately.
+Even though this topic and the corresponding design can be highly technical, I dont have skill or the time to implement any physics or aerodynamic based design choices unfortunately. 
 (If someone is a pro, maybe you want to help me improve or we can exchange ideas :) )
 
 This means, the design is primarily a proof of concept prototype with expanding capabilities. Its a first shot at building a rocket and im just trying some stuff.
 
-What indeed is a real test is, how suitable 3D printed parts are for this usecase. Are they precise enough? Strong enough? Aerodynamically practical ? In the Low power thrust category.
+What indeed is a real test is, how suitable 3D printed parts are for this usecase. Are they precise enough? Strong enough? Aerodynamically practical ? In the Low power thrust category. 
 
-THE DESIGN
 
-The rocket consists of 4 main parts and 4 additional fins and (in current iteration) gets mounted together with 20 m5 screws.
+THE DESIGN 
+
+
+The rocket consists of 4 main parts and 4 additional fins and (in current iteration) gets mounted together with 20 m5 screws. 
 It is only the shell with no internal components .
 
 ![IMG_2740](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/c40a2da2952ff06aec63080d4ccd76f92349b3a2695855fb71b1f05729e37f30.jpg)
 
+
 AFT SECTION
 
+
 ![Screenshot 2026-10-15 235254](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/a30a65055458a66cff88c50dc5ea2b9c1e05f668d92c8387885e6a945e9eedeb.png)
-The aft section consist of 4 trapezoidal fins and a boattail. the boattail is for drag reduction whilst the fins increase stability and ensure a 0 angle of attack.
+The aft section consist of 4 trapezoidal fins and a boattail. the boattail is for drag reduction whilst the fins increase stability and ensure a 0 angle of attack. 
 
 CENTER SECTION
+
 
 ![Screenshot 2026-10-15 235443](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/be2e7e7da66818a45c2bce05b46050e16771ee46042803b6303eb8f6c00038bc.png)
 The center section is just a tube with some mounting holes for aft section and nose cone. (All holes are tapped)
 
 NOSECONE
 
+
 ![Screenshot 2026-10-15 235714](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/388c2c68da44df258ba8d2c7db1de8c61826fa0a2246ac6828839bb751200f7f.png)
 The nosecone is Elipsoid shaped. Although it isnt really necessary at sub mach 0.5 speeds, it still is generally seen as the most efficient geometry for NCs.
 
 COUPLING JOINT
 
-![Screenshot 2026-10-15 235919](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/8107f3dfbf64f52c8a49e8c674ba3c9a89d445113ed080d71af0fb98989ec14b.png)
-The coupling joint connects aft and center sections together and is resistant against bending forces that occur during ascent.
 
-Whats next ?
+![Screenshot 2026-10-15 235919](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/8107f3dfbf64f52c8a49e8c674ba3c9a89d445113ed080d71af0fb98989ec14b.png)
+The coupling joint connects aft and center sections together and is resistant against bending forces that occur during ascent.  
+
+
+Whats next ? 
 Im going to fine tune the models and also create an assembly in Fusion360 (as soon as i work out how XD)
-After that im going to prep the repo for submission. If this is done, i will be able to extend the rocket with more features if time is still enough.
+After that im going to prep the repo for submission. If this is done, i will be able to extend the rocket with more features if time is still enough. 
 
 Thakns for reading :3
+
 
 Redfish :D
 
@@ -113,7 +126,7 @@ Redfish :D
 
 **2h**
 
-INTRO
+INTRO 
 
 Today was another session of designing the rocket. This time I made some adjustments to the aft section of the rocket and did some more measurements for the motors and their slots.
 
@@ -139,9 +152,9 @@ MOTOR SLOTS
 ![Screenshot 2026-10-17 011054](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/69ade5994fd7331cadb88e61eaf27bb539c03e2c011ead61d2d4f4c1f8621345.png)
 
 ![Screenshot 2026-10-17 011106](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/d5a8b54f7b695e55382fd5ea555adfb1c698fec161f1f1485dfb4e1b12c0c8f1.png)
-Three round inserts were made for adding 3 Motors into the rocket.
+Three round inserts were made for adding 3 Motors into the rocket. 
 
-For stabilisation, there were added several more slots inside the cassing to hold the rather long motors in place during flight.
+For stabilisation, there were added several more slots inside the cassing to hold the rather long motors in place during flight. 
 
 MISCELLANEOUS
 
@@ -152,7 +165,7 @@ CURRENT DESIGN ! :0
 ![Screenshot 2026-10-17 012505](https://halflife.hackclub-assets.com/sessions/wKsIODyJMOqccfQq70tFSoimsjj2E03H/3c72f3fc69774aa41b1fbba87286a5716c98051eadd903fbe3713a085794bbc9.png)
 (With floating screw XD)
 
-Thanks for reading
+Thanks for reading 
 
 Redfish ;D
 

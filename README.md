@@ -66,9 +66,11 @@ BOM
 
 here is a short list of the few things you need.
 
-| Item | Qty | Supplier | Cost/item | Total Cost | link |
-|PLA filament|1,Polymaker|$19.99|$19.99|https://shop.polymaker.com/products/polylite-pla|
-|M3 Screws|1|Amazon|$10.00|$10.00|https://www.amazon.de/Zylinderschrauben-Gewindeschrauben-Sechskantschrauben-Kohlenstoffstahl-Maschinenschrauben/dp/B0CY1ZR8XS/ref=sr_1_7?sr=8-7|
-|Estimated total shipping|1|||$0.00|
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+|------|----:|----------|----------:|-----------:|------|
+| PLA filament | 1 | Polymaker | $19.99 | $19.99 | [Polymaker](https://shop.polymaker.com/products/polylite-pla) |
+| M3 Screws | 1 | Amazon | $10.00 | $10.00 | [Amazon](https://www.amazon.de/dp/B0CY1ZR8XS) |
+| Estimated total shipping | 1 | | | $0.00 | |
+| **Total** | | | | **$29.99** | |
 
 furthermore you need a printer with at least 180 × 180 mm print bed size.

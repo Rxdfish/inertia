@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/Hackatime-4.16h-purple?style=flat)
+![Static Badge](https://img.shields.io/badge/Hackatime-4.16h-purple?style=flat) ![Static Badge](https://img.shields.io/badge/version-v1.1-darkblue?style=flat)
+
 
 
 ## inertia

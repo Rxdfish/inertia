@@ -1,5 +1,12 @@
-![Static Badge](https://img.shields.io/badge/Hackatime-4.16h-purple?style=flat) ![Static Badge](https://img.shields.io/badge/version-v1.1-darkblue?style=flat) ![Static Badge](https://img.shields.io/badge/Hackclub-halflife-white?style=flat)
+<p align="center"><img src="./inertia.svg" alt="Logo" width="400"></p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackatime-4.16h-purple?style=flat" alt="Hackatime">
+  <img src= "https://img.shields.io/badge/version-v1.1-violet?style=flat" alt="Version">
+  <img src="https://img.shields.io/badge/Hackclub-HalfLife-pink?style=flat" alt="Hackclub">
+  <img src="https://img.shields.io/badge/status-WIP-beige?style=flat" alt="Status">
+</p>
 
 
 

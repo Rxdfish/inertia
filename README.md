@@ -1,5 +1,5 @@
-<p align="center"><img src="./inertia.svg" alt="Logo" width="400"></p>
-
+<p align="center"><img src="Images/project_inertia_logo.svg" alt="Logo" width="400"></p>
+<p align="center"><img src="Images/project_inertia_logo.svg" alt="Logo" width="400"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hackatime-4.16h-purple?style=flat" alt="Hackatime">

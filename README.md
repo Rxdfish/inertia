@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Hackatime-4.16h-purple?style=flat)
+
+
 # inertia
 
 ![Inertia](Images/Assemby-rendered.png)

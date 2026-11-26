@@ -109,13 +109,14 @@ The rocket consists of **4 parts**: aft section, center section, coupler and nos
 
 <table>
   <tr>
-    <th>Boattail (optional)</th>
+    <th colspan="2">Boattail (optional)</th>
   </tr>
   <tr>
-    <td align="center"><sub>Render pending</sub></td>
+    <td align="center" width="50%"><img src="Images/boattail-render.png" alt="Boattail render" width="380"><br><sub>Render</sub></td>
+    <td align="center" width="50%"><img src="Images/boattail-wire.png" alt="Boattail wireframe" width="380"><br><sub>Wireframe</sub></td>
   </tr>
   <tr>
-    <td>An optional extension attached to the motor section that reduces drag. The trade-off is reduced stability.</td>
+    <td colspan="2">An optional extension attached to the motor section that reduces drag. The trade-off is reduced stability.</td>
   </tr>
 </table>
 

@@ -156,6 +156,12 @@ all parameters: (pending...)
 | Estimated total shipping | 1 | | | $0.00 | |
 | **Total (excl. motors & recovery)** | | | | **$29.99** | |
 
+
+<p align="center">
+  <img src="Images/blackhole.gif" alt="Animated ASCII black hole with a rocket escaping its pull" width="700">
+</p>
+
+
 ## Safety
 
 > [!WARNING]
